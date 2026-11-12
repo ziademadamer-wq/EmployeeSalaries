@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "Ahmed Ali",
+    "Job": "Engineer",
+    "BasicSalary": 12000,
+    "DaysLate": 2,
+    "DaysAbsence": 1,
+    "TotalPenalties": 500,
+    "Bonus": 1500,
+    "CommissionPercent": null,
+    "TotalSales": 2000
+  },
+  {
+    "Name": "Sara Mohamed",
+    "Job": "Sales",
+    "BasicSalary": 10000,
+    "DaysLate": 1,
+    "DaysAbsence": 0,
+    "TotalPenalties": 200,
+    "Bonus": null,
+    "CommissionPercent": 0.05,
+    "TotalSales": 80000
+  },
+  {
+    "Name": "Omar Hassan",
+    "Job": "Admin",
+    "BasicSalary": 9000,
+    "DaysLate": 3,
+    "DaysAbsence": 2,
+    "TotalPenalties": 700,
+    "Bonus": null,
+    "CommissionPercent": null,
+    "TotalSales": 500
+  },
+  {
+    "Name": "Mona Ibrahim",
+    "Job": "Engineer",
+    "BasicSalary": 11000,
+    "DaysLate": 0,
+    "DaysAbsence": 0,
+    "TotalPenalties": 0,
+    "Bonus": 1200,
+    "CommissionPercent": null,
+    "TotalSales": 1500
+  },
+  {
+    "Name": "Khaled Youssef",
+    "Job": "Sales",
+    "BasicSalary": 9500,
+    "DaysLate": 4,
+    "DaysAbsence": 1,
+    "TotalPenalties": 600,
+    "Bonus": null,
+    "CommissionPercent": 0.07,
+    "TotalSales": 60000
+  },
+  {
+    "Name": "Nadia Fathy",
+    "Job": "Admin",
+    "BasicSalary": 8500,
+    "DaysLate": 1,
+    "DaysAbsence": 1,
+    "TotalPenalties": 300,
+    "Bonus": null,
+    "CommissionPercent": null,
+    "TotalSales": 1000
+  },
+  {
+    "Name": "Mahmoud Salem",
+    "Job": "Engineer",
+    "BasicSalary": 13000,
+    "DaysLate": 2,
+    "DaysAbsence": 0,
+    "TotalPenalties": 400,
+    "Bonus": 2000,
+    "CommissionPercent": null,
+    "TotalSales": 2500
+  },
+  {
+    "Name": "Layla Hassan",
+    "Job": "Sales",
+    "BasicSalary": 10500,
+    "DaysLate": 0,
+    "DaysAbsence": 0,
+    "TotalPenalties": 0,
+    "Bonus": null,
+    "CommissionPercent": 0.06,
+    "TotalSales": 90000
+  }
+]
